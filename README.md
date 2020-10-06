@@ -66,10 +66,10 @@
       	</td>
       </tr>
     </tbody>
-  </table>
+  </table>	
+<b>Find me on</b>
 </div>
 
- <b>Find me on</b>
   <br>
 
 <div align="center">
