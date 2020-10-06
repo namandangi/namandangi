@@ -18,51 +18,58 @@
       <tr>
         <td>
           <h4>Languages</h4>
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/java.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/python.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/javascript.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/svgs/c.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/csharp.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/go.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/java.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/python.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/javascript.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/c.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/csharp.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/go.svg" width="24">
         </td>
         <td>
           <h4>Frameworks</h4>
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/react.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/express.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/sequelize.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/jquery.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/react.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/express.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/sequelize.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/jquery.svg" width="24">
         </td>
       </tr>
       <tr>
         <td>
           <h4>Tools</h4>
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/html5.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/css3.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/git.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/linux.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/html5.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/css3.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/git.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/linux.svg" width="24">
         </td>
         <td>
           <h4>Databases</h4>
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/mongodb.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/redis.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/postgresql.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/mongodb.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/redis.svg" width="24">
+          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/postgresql.svg" width="24">
         </td>
       </tr>
       <tr>
         <td>
             <h4>Data Science</h4>
-            <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/numpy.png" width="24">
-            <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/pandas.png" width="24">
-            <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/tensorflow.png" width="24">
-            <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/keras.png" width="24">
-            <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/jupyter.png" width="24">
-            <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/matplotlib-logo.webp" width="24">
-            <img src="https://raw.githubusercontent.com/namandangi/namandangi/icons/seaborn.jpeg" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/numpy.png" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/pandas.png" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/tensorflow.png" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/keras.png" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/jupyter.png" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/matplotlib-logo.webp" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/seaborn.jpeg" width="24">
         </td>
+      	<td>
+            <h4>Game Development</h4>
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/unity.png" width="24">
+            <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/blender.png" width="24">
+      	</td>
       </tr>
     </tbody>
   </table>
+</div>
 
+ <b>Find me on</b>
   <br>
 
 <div align="center">
