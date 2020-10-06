@@ -16,7 +16,7 @@
   <table>
     <tbody>
       <tr>
-        <td>
+        <td style="width: 15rem;">
           <h4>Languages</h4>
           <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/java.svg" width="24">
           <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/python.svg" width="24">
