@@ -67,12 +67,17 @@
       </tr>
     </tbody>
   </table>	
-<b>Find me on</b>
+<b>Find me on ⬇️</b>
 </div>
 
   <br>
 
 <div align="center">
+<h2>
+    📌
+    <a href="https://www.namandangi.me">namandangi.me</a>
+</h2>
+	
   <a href="https://www.linkedin.com/in/namandangi">
     <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/linkedin.svg" width="18">
   </a>
