@@ -1,4 +1,4 @@
-<!---
+
 <div align="center">
 	<img src="https://raw.githubusercontent.com/namandangi/namandangi/main/gif/zero-two.gif" width="200" height="200">
 	<h1>🄽🄰🄼🄰🄽 🄳🄰🄽🄶🄸</h1>	
@@ -76,7 +76,7 @@
 <div align="center">
 <h2>
     📌
-    <a href="https://www.namandangi.me">namandangi.me</a>
+    <a href="https://www.namandangi.tech">namandangi.tech</a>
 </h2>
 	
   <a href="https://www.linkedin.com/in/namandangi">
@@ -87,4 +87,3 @@
     <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/twitter.svg" width="18">
   </a>
 </div>
---->
