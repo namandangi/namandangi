@@ -1,3 +1,4 @@
+<!---
 <div align="center">
 	<img src="https://raw.githubusercontent.com/namandangi/namandangi/main/gif/zero-two.gif" width="200" height="200">
 	<h1>🄽🄰🄼🄰🄽 🄳🄰🄽🄶🄸</h1>	
@@ -86,3 +87,4 @@
     <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/twitter.svg" width="18">
   </a>
 </div>
+--->
