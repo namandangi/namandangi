@@ -5,10 +5,9 @@
 </div>
 
 <div align="center">
-  <div>Full Stack Developer </div>
-  <div>Machine Learning Enthusiast </div>
-  <div>Junior Year Computer Science </div>
-  <div><b>WEEB</b> </div>
+  <div> Graduate Computer Science Student @Georgia Tech 🐝 </div>
+  <div> Software Engineering | Machine Learning 🔧 </div>
+  <div> Digital Art ❤️ </div>
 </div>
 
 <br>
@@ -24,7 +23,6 @@
           <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/javascript.svg" width="24">
           <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/c.svg" width="24">
           <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/csharp.svg" width="24">
-          <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/icons/go.svg" width="24">
         </td>
         <td>
           <h4>Frameworks</h4>
@@ -76,7 +74,7 @@
 <div align="center">
 <h2>
     📌
-    <a href="https://www.namandangi.tech">namandangi.tech</a>
+    <a href="https://www.namandangi.live">namandangi.live</a>
 </h2>
 	
   <a href="https://www.linkedin.com/in/namandangi">
