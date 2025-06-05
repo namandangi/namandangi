@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <div> Graduate Computer Science Student @Georgia Tech 🐝 </div>
+  <div> M.S Computer Science @Georgia Tech 🐝 </div>
   <div> Software Engineering | Machine Learning 🔧 </div>
   <div> Digital Art ❤️ </div>
 </div>
