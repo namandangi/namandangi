@@ -1,10 +1,10 @@
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/namandangi/namandangi/main/gif/02.gif" width="200" height="200">
+	<!-- <img src="https://raw.githubusercontent.com/namandangi/namandangi/main/gif/02.gif" width="200" height="200"> -->
 	<h1>🄽🄰🄼🄰🄽 🄳🄰🄽🄶🄸</h1>	
-</div>
+<!-- </div> -->
 
-<div align="center">
+<!-- <div align="center"> -->
   <div> M.S Computer Science @Georgia Tech 🐝 </div>
   <div> Software Engineering | Machine Learning 🔧 </div>
   <div> Digital Art ❤️ </div>
